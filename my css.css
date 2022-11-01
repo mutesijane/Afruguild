@@ -1,0 +1,58 @@
+body{
+    background: local;
+}
+
+.vertical{
+  border-left: 4px solid black;
+  height: 30px;
+
+}
+.back{
+    background-color: hsl(351, 49%, 89%); 
+
+    
+}
+.img{
+    border-radius: 50%;
+    max-width: 30%;
+    
+}
+    
+.pos{
+    background: rgba(255, 5, 20, 0.2);
+}
+.image{
+    border-radius: 50%;
+    max-width: 30%;
+    
+}
+.pa1{
+    border-radius: 10%;
+    background-color: pink;
+    box-shadow: 50px;
+}
+.dd{
+    box-shadow: 0px 10px green;
+    height: 250px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 10px;
+    
+}
+
+.ss{
+    background-color: pink;
+    box-shadow: 0px 10px red;
+    height: 250px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 10px;
+
+}
+.bb{
+    box-shadow: 0px 10px yellow;
+    height: 250px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 10px;
+}
